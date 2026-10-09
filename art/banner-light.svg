@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-labelledby="title desc" role="img" viewBox="0 0 800 200">
+  <title id="title">Retro Flight</title>
+  <desc id="desc">Animated retro sci-fi flight screensaver. No ads, analytics, or tracking.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#130d2a"/><stop offset="1" stop-color="#03040d"/></linearGradient>
+    <radialGradient id="planet"><stop stop-color="#ff7bd4" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity=".08"/></radialGradient>
+    <linearGradient id="grid" x2="0" y2="1"><stop stop-color="#ff5bd8" stop-opacity=".9"/><stop offset="1" stop-color="#8b5cf6" stop-opacity=".08"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="799" height="199" rx="16" fill="#fff" stroke="#e5e7eb"/>
+  <text x="42" y="79" fill="#0f172a" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Retro Flight</text>
+  <text x="42" y="108" fill="#64748b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14">Always animated. No ads, analytics, or tracking.</text>
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">
+    <rect x="42" y="128" width="90" height="22" rx="11" fill="#f5f3ff" stroke="#a78bfa" stroke-width=".8"/><text x="87" y="143" fill="#6d28d9">Continuous</text>
+    <rect x="142" y="128" width="82" height="22" rx="11" fill="#eff6ff" stroke="#60a5fa" stroke-width=".8"/><text x="183" y="143" fill="#1e40af">Adjustable</text>
+    <rect x="234" y="128" width="74" height="22" rx="11" fill="#f0fdf4" stroke="#4ade80" stroke-width=".8"/><text x="271" y="143" fill="#166534">Offline</text>
+  </g>
+  <g transform="translate(565 24)">
+    <rect width="205" height="152" rx="12" fill="url(#sky)"/>
+    <circle cx="144" cy="52" r="35" fill="url(#planet)"/>
+    <circle cx="144" cy="52" r="20" fill="#b84dbb" fill-opacity=".55"/>
+    <ellipse cx="144" cy="52" rx="53" ry="16" fill="none" stroke="#e18af4" stroke-width="1.2" transform="rotate(-14 144 52)"/>
+    <path d="M0 91H205M13 104H192M31 119H174M52 136H153M77 152H128M102 92L68 152M102 92L88 152M102 92L102 152M102 92L116 152M102 92L136 152" fill="none" stroke="url(#grid)" stroke-width=".8"/>
+    <g fill="#e8e5ff"><circle cx="22" cy="21" r="1"/><circle cx="70" cy="39" r=".8"/><circle cx="39" cy="68" r=".7"/><circle cx="184" cy="18" r=".9"/><circle cx="179" cy="80" r=".8"/><circle cx="48" cy="14" r=".7"/></g>
+  </g>
+</svg>
