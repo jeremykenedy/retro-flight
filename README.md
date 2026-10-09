@@ -15,10 +15,6 @@
     <a href="https://github.com/jeremykenedy/retro-flight/actions/workflows/style.yml"><img src="https://github.com/jeremykenedy/retro-flight/actions/workflows/style.yml/badge.svg" alt="Code style"></a>
     <a href="https://github.com/jeremykenedy/retro-flight/actions/workflows/docs.yml"><img src="https://github.com/jeremykenedy/retro-flight/actions/workflows/docs.yml/badge.svg" alt="Documentation"></a>
     <a href="https://github.com/jeremykenedy/retro-flight/actions/workflows/security.yml"><img src="https://github.com/jeremykenedy/retro-flight/actions/workflows/security.yml/badge.svg" alt="Privacy and source checks"></a>
-    <a href="https://github.com/jeremykenedy/retro-flight/actions/workflows/gitguardian.yml"><img src="https://github.com/jeremykenedy/retro-flight/actions/workflows/gitguardian.yml/badge.svg" alt="GitGuardian secret scan"></a>
-    <a href="https://github.com/jeremykenedy/retro-flight/actions/workflows/sonarcloud.yml"><img src="https://github.com/jeremykenedy/retro-flight/actions/workflows/sonarcloud.yml/badge.svg" alt="SonarCloud analysis"></a>
-    <a href="https://sonarcloud.io/summary/overall?id=jeremykenedy_retro-flight&amp;branch=main"><img src="https://sonarcloud.io/api/project_badges/measure?project=jeremykenedy_retro-flight&amp;metric=alert_status" alt="SonarCloud quality gate"></a>
-    <a href="https://sonarcloud.io/summary/overall?id=jeremykenedy_retro-flight&amp;branch=main"><img src="https://sonarcloud.io/api/project_badges/measure?project=jeremykenedy_retro-flight&amp;metric=coverage" alt="SonarCloud coverage"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="Apache-2.0 license"></a>
     <a href="https://github.com/jeremykenedy"><img src="https://img.shields.io/github/followers/jeremykenedy?label=Follow&style=social" alt="Follow on GitHub"></a>
     <a href="https://github.com/jeremykenedy/retro-flight" title="Open the repository and click Star"><img src="https://img.shields.io/badge/Star-this%20repo-yellow?logo=github&style=social" alt="Star this repo"></a>
